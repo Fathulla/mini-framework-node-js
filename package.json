@@ -1,0 +1,21 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "ulbi tv channel",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongodb": "^6.3.0",
+    "mongoose": "^6.12.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
